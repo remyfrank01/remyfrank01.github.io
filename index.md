@@ -10,7 +10,7 @@ This site maintains records and documentation of personal projects and info.
   
   Phone Number: (951) 205-9927
   
-  LinkedIn: https://www.linkedin.com/in/remington-frank-009b9719a/
+  LinkedIn: <https://www.linkedin.com/in/remington-frank-009b9719a/>
   
 #### Education
 
@@ -41,3 +41,7 @@ CAD files for the project.
  <a href="http://www.youtube.com/watch?feature=player_embedded&v=Gdc4ZPLv7M4
 " target="_blank"><img src="http://img.youtube.com/vi/Gdc4ZPLv7M4/0.jpg" 
 alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
+
+Limbo was a school project for Carnegie Mellon's introductory programming course 15-112. This was a solo project which I had approximately
+3 weeks to complete. The code for this project can be found in my GitHub repositories. The aesthetic for the game was inspired the popular indie
+game of a similar name, Limbo, as well as Hollow Knight (two games whose artwork I very much admire).
