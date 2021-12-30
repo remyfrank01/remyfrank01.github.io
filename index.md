@@ -24,7 +24,7 @@ This site maintains records and documentation of personal projects and info.
   
 #### Personal Projects
 
- ##### Kinetic Table
+##### Kinetic Table
  
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=idSlaYLO3qE
 " target="_blank"><img src="http://img.youtube.com/vi/idSlaYLO3qE/0.jpg" 
@@ -36,7 +36,7 @@ took approximately two months to complete and I intend to continue programming n
 CAD files for the project.
 
 
- ##### Limbo - A Side Scrolling 8 Bit Game
+##### Limbo - A Side Scrolling 8 Bit Game
  
  <a href="http://www.youtube.com/watch?feature=player_embedded&v=Gdc4ZPLv7M4
 " target="_blank"><img src="http://img.youtube.com/vi/Gdc4ZPLv7M4/0.jpg" 
