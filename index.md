@@ -1,5 +1,5 @@
 # Remington L Frank
-## Los Angeles, CA
+### Los Angeles, CA
 
 #### Contact Information
 
