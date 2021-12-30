@@ -1,7 +1,7 @@
 # Remington L Frank
 ### Los Angeles, CA
 
-![photo of self 3](https://user-images.githubusercontent.com/44786172/147727730-4d3eb92e-e4d2-482d-80c8-5e3806ffa567.png)
+![photo of self 4](https://user-images.githubusercontent.com/44786172/147727962-385ffee6-966c-4ada-888e-5dc4ebf93eb2.png)
 
 
 #### Contact Information
