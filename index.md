@@ -30,6 +30,11 @@ This site maintains records and documentation of personal projects and info.
 " target="_blank"><img src="http://img.youtube.com/vi/idSlaYLO3qE/0.jpg" 
 alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
 
+The Kinetic Table was inspired and based off of the tables made by [Sisyphus Industries](https://sisyphus-industries.com/).
+This was a personal project in order to practice prototyping methods and make use of topics learned from classes. This project
+took approximately two months to complete and I intend to continue programming new designs. Access the projects tab to view the 
+CAD files for the project.
+
 
  ##### Limbo - A Side Scrolling 8 Bit Game
  
