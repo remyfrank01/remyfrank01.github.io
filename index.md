@@ -3,6 +3,7 @@
 This site maintains records and documentation of personal projects and info.
 
 ####Contact Information
+
   Personal Email: <remyfrank01@gmail.com>   
   
   Official/School Email: <rfrankma@andrew.cmu.edu>
@@ -12,9 +13,13 @@ This site maintains records and documentation of personal projects and info.
   LinkedIn: https://www.linkedin.com/in/remington-frank-009b9719a/
   
 ####Education
+
   School: Carnegie Mellon University
+  
   Major: Mechanical Engineering
+  
   Minor: Computer Science
+  
   Expected Graduation: May 2023
   
  ####Personal Projects
