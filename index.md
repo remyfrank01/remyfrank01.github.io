@@ -1,4 +1,5 @@
 # Remington L Frank
+## Based in Los Angeles, CA
 
 #### Contact Information
 
