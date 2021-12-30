@@ -1,5 +1,5 @@
 # Remington L Frank
-## Based in Los Angeles, CA
+## Los Angeles, CA
 
 #### Contact Information
 
@@ -13,6 +13,7 @@
   
   Instagram: <https://www.instagram.com/rem1ng7on/>
   
+  
 #### Education
 
   School: Carnegie Mellon University
@@ -22,6 +23,7 @@
   Minor: Computer Science
   
   Expected Graduation: May 2023
+  
   
 #### Personal Projects
 
