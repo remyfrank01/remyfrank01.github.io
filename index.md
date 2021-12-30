@@ -6,15 +6,15 @@
 
 #### Contact Information
 
-  Personal Email: <remyfrank01@gmail.com>   
+  * Personal Email: <remyfrank01@gmail.com>   
   
-  Official/School Email: <rfrankma@andrew.cmu.edu>
+  * Official/School Email: <rfrankma@andrew.cmu.edu>
   
-  Phone Number: (951) 205-9927
+  * Phone Number: (951) 205-9927
   
-  LinkedIn: <https://www.linkedin.com/in/remington-frank-009b9719a/>
+  * LinkedIn: <https://www.linkedin.com/in/remington-frank-009b9719a/>
   
-  Instagram: <https://www.instagram.com/rem1ng7on/>
+  * Instagram: <https://www.instagram.com/rem1ng7on/>
   
   
 #### Education
