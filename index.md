@@ -49,5 +49,5 @@ CAD files for the project.
 alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
 
 Limbo was a school project for Carnegie Mellon's introductory programming course 15-112. This was a solo project which I had approximately
-3 weeks to complete. The code for this project can be found in my GitHub repositories. The aesthetic for the game was inspired the popular indie
+3 weeks to complete. The code for this project can be found in my GitHub repositories. The aesthetic for the game was inspired by the popular indie
 game of a similar name, Limbo, as well as Hollow Knight (two games whose artwork I very much admire).
