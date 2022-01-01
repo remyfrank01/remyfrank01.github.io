@@ -10,8 +10,8 @@ alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
 
 The Kinetic Table was inspired and based off of the tables made by [Sisyphus Industries](https://sisyphus-industries.com/).
 This was a personal project in order to practice prototyping methods and make use of topics learned from classes. This project
-took approximately two months to complete and I intend to continue programming new designs. Access the projects tab to view the 
-CAD files for the project.
+took approximately two months to complete and I intend to continue programming new designs. Files and CAD designs for the project
+can be found under my personal [GrabCAD profile.](https://workbench.grabcad.com/workbench/projects/gc65KVhT07diAkviDsxtTxvUX19gEE6tuySJVHUeOcgKg-#/home) 
 
 
 ##### Limbo - A Side Scrolling 8 Bit Game
