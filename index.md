@@ -26,3 +26,7 @@
   Minor: Computer Science
   
   Expected Graduation: May 2023
+
+## Table of Contents
+
+* [Projects]({% link projects.md %})
