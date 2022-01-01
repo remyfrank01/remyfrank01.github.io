@@ -25,3 +25,13 @@
   Minor: Computer Science
   
   Expected Graduation: May 2023
+  
+  
+### Random
+ Favorite Book (Series): A Series of Unfortunate Events
+ 
+ Favorite Music: Incubus, Red Hot Chilli Peppers, Green Day
+ 
+ Favorite Place Traveled to: Paris, France
+ 
+ Hobbies: Videogames, Climbing, Programming, Tinkering, Drawing, Poetry
