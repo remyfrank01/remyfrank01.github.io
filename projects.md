@@ -23,3 +23,12 @@ alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
 Limbo was a school project for Carnegie Mellon's introductory programming course 15-112. This was a solo project which I had approximately
 3 weeks to complete. The code for this project can be found in my [GitHub repositories](https://github.com/remyfrank01/LimboGame). The aesthetic for the game was inspired by the popular indie
 game of a similar name, Limbo, as well as Hollow Knight (two games whose artwork I very much admire).
+
+##### Sketchy Etchy
+
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=809hWnoMjrU
+" target="_blank"><img src="http://img.youtube.com/vi/809hWnoMjrU/0.jpg" 
+alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
+
+The Sketchy Etchy was my first attempt at an XY plotter type build. The requirement for this project was to construct a handicap friendly device
+that a young boy would want. The Sketchy Etchy was intended to be a whimsical, joystick controlled version of the Etch A Sketch.
