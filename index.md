@@ -3,7 +3,7 @@ title: Home
 layout: default
 ---
 
-# Remington L Frank
+## Remington L Frank
 ### Los Angeles, CA
 
 ## Table of Contents
