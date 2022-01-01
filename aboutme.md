@@ -28,10 +28,16 @@
   
   
 ### Random
- Favorite Book (Series): A Series of Unfortunate Events
+
+<dl>
+  <dt>Favorite Book (Series)</dt> 
+  <dd>A Series of Unfortunate Events</dd>
  
- Favorite Music: Incubus, Red Hot Chilli Peppers, Green Day
+ <dt>Favorite Music</dt> 
+ <dd>Incubus, Red Hot Chilli Peppers, Green Day</dd>
  
- Favorite Place Traveled to: Paris, France
+ <dt>Favorite Place Traveled To</dt> 
+ <dd>Paris, France</dd>
  
- Hobbies: Videogames, Climbing, Programming, Tinkering, Drawing, Poetry
+ <dt>Hobbies</dt> 
+ <dd>Videogames, Climbing, Programming, Tinkering, Drawing, Poetry</dd>
