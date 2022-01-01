@@ -30,14 +30,16 @@
 ### Random
 
 <dl>
-  <dt>Favorite Book (Series)</dt> 
-  <dd>A Series of Unfortunate Events</dd>
+   <dt>Favorite Book (Series)</dt> 
+   <dd>A Series of Unfortunate Events</dd>
  
- <dt>Favorite Music</dt> 
- <dd>Incubus, Red Hot Chilli Peppers, Green Day</dd>
+   <dt>Favorite Music</dt> 
+   <dd>Incubus, Red Hot Chilli Peppers, Green Day</dd>
  
- <dt>Favorite Place Traveled To</dt> 
- <dd>Paris, France</dd>
+   <dt>Favorite Place Traveled To</dt> 
+   <dd>Paris, France</dd>
  
- <dt>Hobbies</dt> 
- <dd>Videogames, Climbing, Programming, Tinkering, Drawing, Poetry</dd>
+   <dt>Hobbies</dt> 
+   <dd>Videogames, Climbing, Programming, Tinkering, Drawing, Poetry</dd>
+ 
+</dl>
