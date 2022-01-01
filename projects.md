@@ -33,4 +33,4 @@ alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
 The Sketchy Etchy was my first attempt at an XY plotter type build. The requirement for this project was to construct a handicap friendly device
 that a young boy would want. The Sketchy Etchy was intended to be a whimsical, joystick controlled version of the Etch A Sketch.
 
-![circuit diagram](![2021-12-31](https://user-images.githubusercontent.com/44786172/147845221-1b755475-4107-4eb6-9631-41d2b0a92b25.png)
+![2021-12-31](https://user-images.githubusercontent.com/44786172/147845221-1b755475-4107-4eb6-9631-41d2b0a92b25.png)
