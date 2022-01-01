@@ -12,8 +12,6 @@
   
   * Official/School Email: <rfrankma@andrew.cmu.edu>
   
-  * Phone Number: (951) 205-9927
-  
   * LinkedIn: <https://www.linkedin.com/in/remington-frank-009b9719a/>
   
   * Instagram: <https://www.instagram.com/rem1ng7on/>
