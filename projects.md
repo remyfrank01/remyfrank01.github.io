@@ -6,7 +6,8 @@
  
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=idSlaYLO3qE
 " target="_blank"><img src="http://img.youtube.com/vi/idSlaYLO3qE/0.jpg" 
-alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
+alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a> | ![2021-12-31 (1)](https://user-images.githubusercontent.com/44786172/147845317-1f7f37f3-fed6-45d2-a548-69e5e24f59ab.png)
+
 
 The Kinetic Table was inspired and based off of the tables made by [Sisyphus Industries](https://sisyphus-industries.com/).
 This was a personal project in order to practice prototyping methods and make use of topics learned from classes. This project
