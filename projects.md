@@ -15,7 +15,7 @@ took approximately two months to complete and I intend to continue programming n
 can be found under my personal [GrabCAD profile.](https://workbench.grabcad.com/workbench/projects/gc65KVhT07diAkviDsxtTxvUX19gEE6tuySJVHUeOcgKg-#/home)
 
 [the build]
-![2021-12-31 (1)](https://user-images.githubusercontent.com/44786172/147845322-c2c7251c-e459-4cfd-ba6c-b48287d16268.png)
+![2021-12-31 (1)](https://user-images.githubusercontent.com/44786172/147845322-c2c7251c-e459-4cfd-ba6c-b48287d16268.png =100x20)
 
 
 
