@@ -1,3 +1,8 @@
+---
+title: Home
+layout: default
+---
+
 # Remington L Frank
 ### Los Angeles, CA
 
