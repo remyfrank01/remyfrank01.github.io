@@ -3,6 +3,7 @@
 # About Me
 
 ![photo of self 4](https://user-images.githubusercontent.com/44786172/147727962-385ffee6-966c-4ada-888e-5dc4ebf93eb2.png)
+<dt>Circa August 2021</dt>
 
 
 #### Contact Information
