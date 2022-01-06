@@ -11,3 +11,4 @@ layout: default
 * [About Me]({%  link aboutme.md %})
 * [Projects]({% link projects.md %})
 * [Resume]({% link resume.md %})
+* [GitHub Repos](https://github.com/remyfrank01)
