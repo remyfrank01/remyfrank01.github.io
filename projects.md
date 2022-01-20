@@ -1,8 +1,8 @@
 ##### [Back to Home]({% link index.md %})
 
-#### Personal Projects
+### Personal Projects
 
-##### Kinetic Table
+#### Kinetic Table
  
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=idSlaYLO3qE
 " target="_blank"><img src="http://img.youtube.com/vi/idSlaYLO3qE/0.jpg" 
@@ -14,7 +14,10 @@ This was a personal project in order to practice prototyping methods and make us
 took approximately two months to complete and I intend to continue programming new designs. Files and CAD designs for the project
 can be found under my personal [GrabCAD profile.](https://workbench.grabcad.com/workbench/projects/gc65KVhT07diAkviDsxtTxvUX19gEE6tuySJVHUeOcgKg-#/home)
 
-##### Limbo - A Side Scrolling 8 Bit Game
+##### Pictures:
+![2022-01-20](https://user-images.githubusercontent.com/44786172/150410976-6bb72939-c12a-4fdf-b173-1825069f9cd3.png)
+
+#### Limbo - A Side Scrolling 8 Bit Game
  
  <a href="http://www.youtube.com/watch?feature=player_embedded&v=Gdc4ZPLv7M4
 " target="_blank"><img src="http://img.youtube.com/vi/Gdc4ZPLv7M4/0.jpg" 
@@ -24,7 +27,7 @@ Limbo was a school project for Carnegie Mellon's introductory programming course
 3 weeks to complete. The code for this project can be found in my [GitHub repositories](https://github.com/remyfrank01/LimboGame). The aesthetic for the game was inspired by the popular indie
 game of a similar name, Limbo, as well as Hollow Knight (two games whose artwork I very much admire).
 
-##### Sketchy Etchy
+#### Sketchy Etchy
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=809hWnoMjrU
 " target="_blank"><img src="http://img.youtube.com/vi/809hWnoMjrU/0.jpg" 
