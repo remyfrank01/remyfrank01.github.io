@@ -15,7 +15,7 @@ took approximately two months to complete and I intend to continue programming n
 can be found under my personal [GrabCAD profile.](https://workbench.grabcad.com/workbench/projects/gc65KVhT07diAkviDsxtTxvUX19gEE6tuySJVHUeOcgKg-#/home)
 
 ##### Pictures:
-![2022-01-20](https://user-images.githubusercontent.com/44786172/150410976-6bb72939-c12a-4fdf-b173-1825069f9cd3.png)
+<img src = "https://user-images.githubusercontent.com/44786172/150410976-6bb72939-c12a-4fdf-b173-1825069f9cd3.png" width = "100" height = "100" />
 
 #### Limbo - A Side Scrolling 8 Bit Game
  
