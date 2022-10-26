@@ -7,6 +7,12 @@
 ![Demo (1)](https://user-images.githubusercontent.com/44786172/197932390-df745080-0288-4fce-9150-ed649b276503.gif)
 
 
+The above sheet metal storage system was a side design project while working at JLG Industries, Inc. I was solely responsible
+for the design, FEA and stress analysis, and materials management for the project which was used to optimize the use of space 
+for sheet metal (aluminum) storage. In order to make the system "smarter" and easier to use for the forklift drivers, I 
+conceptualized and programmed LIDAR sensors to read the elevation of the sheet metal pallet and to light a corresponding LED 
+strip to indicate to the driver whether or not they were at a proper height.
+
 #### Kinetic Table
  
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=idSlaYLO3qE
