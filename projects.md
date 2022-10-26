@@ -4,7 +4,8 @@
 
 #### "Remy" Tower
 
-![Alt Text](Demo.gif)
+![Demo (1)](https://user-images.githubusercontent.com/44786172/197932390-df745080-0288-4fce-9150-ed649b276503.gif)
+
 
 #### Kinetic Table
  
