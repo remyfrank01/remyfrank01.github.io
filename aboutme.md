@@ -24,9 +24,7 @@
   
   Major: Mechanical Engineering
   
-  Minor: Computer Science
-  
-  Expected Graduation: May 2023
+  Expected Graduation: December 2022
   
   
 ### Random
