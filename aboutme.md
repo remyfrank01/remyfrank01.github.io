@@ -2,8 +2,9 @@
 
 # About Me
 
-![photo of self 4](https://user-images.githubusercontent.com/44786172/147727962-385ffee6-966c-4ada-888e-5dc4ebf93eb2.png)
-<dt>Circa August 2021</dt>
+![2023-03-11](https://user-images.githubusercontent.com/44786172/224509884-6cf03afb-8c26-4049-a6f9-4ba2d22e0253.png)
+
+<dt>Circa February 2023</dt>
 
 
 
