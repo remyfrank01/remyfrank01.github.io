@@ -5,7 +5,7 @@
 ### Archie (In Development)
 
 <a href="[https://youtu.be/ZvzZ7mjxHas](https://youtu.be/ZvzZ7mjxHas)
-" target="_blank"><img src="![image](https://github.com/remyfrank01/remyfrank01.github.io/assets/44786172/b43a0f02-ecae-4fd6-92c2-6c24a49ea715)" 
+" target="_blank"><img src="https://i9.ytimg.com/vi_webp/ZvzZ7mjxHas/mq1.webp?sqp=COSUi6gG-oaymwEmCMACELQB8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGBQgEyh_MA8=&rs=AOn4CLACrZFdiir4V4wrh7AifAaFhUEoXQ" 
 alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
 
 My robot friend.
