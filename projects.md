@@ -4,7 +4,7 @@
 
 ### Archie (In Development)
 
-<a href="[http://www.youtube.com/watch?feature=player_embedded&v=ZvzZ7mjxHas](https://youtu.be/ZvzZ7mjxHas)
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=ZvzZ7mjxHas
 " target="_blank"><img src="http://img.youtube.com/vi/ZvzZ7mjxHas/0.jpg" 
 alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
 
@@ -12,7 +12,7 @@ My robot friend.
 
 ### Jigsorter
 
-<a href="[http://www.youtube.com/watch?feature=player_embedded&v=Lt7ik7mDaYw](https://youtu.be/Lt7ik7mDaYw)
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=Lt7ik7mDaYw
 " target="_blank"><img src="http://img.youtube.com/vi/Lt7ik7mDaYw/0.jpg" 
 alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
 
