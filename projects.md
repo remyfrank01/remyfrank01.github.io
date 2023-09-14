@@ -2,6 +2,27 @@
 
 ### Personal Projects
 
+### Archie (In Development)
+
+<a href="[https://youtu.be/ZvzZ7mjxHas](https://youtu.be/ZvzZ7mjxHas)
+" target="_blank"><img src="http://img.youtube.com/vi/Gdc4ZPLv7M4/0.jpg" 
+alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
+
+My robot friend.
+
+### Jigsorter
+
+<a href="[http://www.youtube.com/watch?feature=player_embedded&v=Gdc4ZPLv7M4](https://youtu.be/Lt7ik7mDaYw)
+" target="_blank"><img src="http://img.youtube.com/vi/Gdc4ZPLv7M4/0.jpg" 
+alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
+
+The Jigsorter was my Capstone project for my final semester at Carnegie Mellon University for the class,
+Electromechanical Systems Design. As the software lead for the project, I was responsible for developing the
+following: puzzle piece shape identification algorithm, puzzle piece color classification algorithm, the auto
+image capture program, and the integration between the motor controll board (Arduino) used for piece dispensing
+and the main software board (Raspberry Pi). The code for this project is hosted in the [24-671-Team-Jigsorter](https://github.com/KenJ20/24-671-Team-Jigsorter/tree/main)
+Github repo.
+
 #### "Remy" Tower
 
 ![Demo (1)](https://user-images.githubusercontent.com/44786172/197932390-df745080-0288-4fce-9150-ed649b276503.gif)
