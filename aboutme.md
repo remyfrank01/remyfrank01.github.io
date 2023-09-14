@@ -10,13 +10,17 @@
 
 #### Contact Information
 
-  * Personal Email: <remyfrank01@gmail.com>   
-  
-  * Official/School Email: <rfrankma@andrew.cmu.edu>
+  * Personal Email: <remington.frankm@gmail.com>   
   
   * LinkedIn: <https://www.linkedin.com/in/remington-frank-009b9719a/>
   
   * Instagram: <https://www.instagram.com/rem1ng7on/>
+
+### Work
+
+  * Avionics Build Engineer, SpaceX (January 2023 - Present)
+    
+  * R&D Mechanical Engineering Intern, JLG Industries (Summer 2021)
   
   
 #### Education
