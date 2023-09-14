@@ -20,7 +20,7 @@
 
   * Avionics Build Engineer, SpaceX (January 2023 - Present)
     
-  * R&D Mechanical Engineering Intern, JLG Industries (Summer 2021)
+  * R&D Mechanical Engineering Intern, JLG Industries (Summer 2022)
   
   
 #### Education
