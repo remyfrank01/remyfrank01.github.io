@@ -18,7 +18,9 @@
 
 ### Work
 
-  * Avionics Build Engineer, SpaceX (January 2023 - Present)
+  * Mechanical Design Engineer, SpaceX (February 2024 - Present)
+
+  * Avionics Build Engineer, SpaceX (January 2023 - February 2024)
     
   * R&D Mechanical Engineering Intern, JLG Industries (Summer 2022)
   
