@@ -31,7 +31,7 @@
   
   Major: Mechanical Engineering
   
-  Expected Graduation: December 2022
+  Graduation: December 2022
   
   
 ### Random
