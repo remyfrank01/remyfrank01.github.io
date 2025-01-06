@@ -2,9 +2,9 @@
 
 # About Me
 
-![2023-03-11](https://user-images.githubusercontent.com/44786172/224509884-6cf03afb-8c26-4049-a6f9-4ba2d22e0253.png)
+![self](https://github.com/user-attachments/assets/eda4ce95-ee5c-45b7-8bed-98d902e92361)
 
-<dt>Circa February 2023</dt>
+<dt>Circa October 2024</dt>
 
 
 
