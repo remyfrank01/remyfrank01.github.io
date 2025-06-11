@@ -41,7 +41,7 @@
    <dd>A Series of Unfortunate Events</dd>
  
    <dt>Favorite Music</dt> 
-   <dd>Incubus, Red Hot Chilli Peppers, Green Day</dd>
+   <dd>Incubus</dd>
  
    <dt>Favorite Place Traveled To</dt> 
    <dd>Paris, France</dd>
